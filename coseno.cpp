@@ -4,6 +4,8 @@
 void display(void)
 {
 
+//holis
+
 glClear(GL_COLOR_BUFFER_BIT);
     glPointSize(5);
     glBegin(GL_POINTS);
